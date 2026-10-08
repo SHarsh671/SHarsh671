@@ -1,122 +1,197 @@
-# Hi, I'm Harshmeet Singh 👋
+<div align="center">
 
-### Computer Science Graduate · Backend & Software Developer
+# Harshmeet Singh
 
-I'm a Computer Science graduate from **McMaster University** focused on building backend systems, REST APIs, and full-stack applications.
+### Software Developer · Computer Science Graduate
 
-Currently focused on **Java, Spring Boot, PostgreSQL, JPA/Hibernate, and software testing**, while expanding into Docker, cloud, and distributed systems.
+Building backend systems, REST APIs, and full-stack applications with a focus on **Java, Spring Boot, PostgreSQL, and scalable software design.**
 
-<p align="left">
-  <a href="https://sharsh671.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshmeet-s-1367083a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:harshmeetsohi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br>
+
+<a href="https://sharsh671.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/harshmeet-s-1367083a6/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:harshmeetsohi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/SHarsh671">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SHarsh671&style=flat-square&color=grey&label=Profile+Views" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+I'm a **Computer Science graduate from McMaster University** who enjoys turning ideas into reliable software.
+
+My main focus is backend development, with experience building RESTful APIs, database-driven applications, automated tests, and AI-powered applications.
+
+I care about writing **clean, maintainable code**, understanding how systems work under the hood, and continuously improving the things I build.
+
+---
+
+## Tech Stack
+
+<div align="center">
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,c,bash" />
-</p>
 
-### Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,react" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c,bash" />
 
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux,maven" />
-</p>
+<br><br>
 
-### Testing & Development
-`JUnit` · `REST APIs` · `JPA/Hibernate` · `Postman` · `Swagger` · `Maven`
+### Backend
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,react" />
+
+<br><br>
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux,maven" />
+
+<br><br>
+
+`REST APIs` &nbsp; `JPA / Hibernate` &nbsp; `JUnit` &nbsp; `Postman` &nbsp; `Swagger`
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💼 Job Application Manager
+
 **Java · Spring Boot · PostgreSQL · JPA/Hibernate · JUnit**
 
-A backend REST API for managing job applications, companies, interviews, and application statuses.
+Backend REST API designed to manage job applications, companies, interviews, and application statuses.
 
-**[View Repository →](https://github.com/SHarsh671/job-application-management-platform)**
+**Highlights**
 
----
+- RESTful API architecture
+- Relational PostgreSQL database
+- JPA/Hibernate persistence
+- Request validation & exception handling
+- Automated unit testing
+
+<a href="https://github.com/SHarsh671/job-application-management-platform">View Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📈 Stock Portfolio Tracker
+
 **Java · Spring Boot · PostgreSQL · JUnit**
 
-A portfolio management service for tracking holdings, transactions, portfolio value, and investment performance.
+Backend service for managing investment portfolios, transactions, holdings, and portfolio performance.
 
-**[View Repository →](https://github.com/SHarsh671/stock-portfolio-tracker)**
+**Highlights**
 
----
+- Portfolio management APIs
+- Relational database design
+- Business logic & calculations
+- Scheduled background processing
+- Automated testing
+
+<a href="https://github.com/SHarsh671/stock-portfolio-tracker">View Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 AI Customer Support Assistant
+
 **Python · FastAPI · PostgreSQL · OpenAI**
 
-A RAG-based customer support assistant that retrieves information from a custom knowledge base to generate context-aware responses.
+RAG-based customer support application that retrieves information from a custom knowledge base to generate context-aware responses.
 
-**[View Repository →](https://github.com/SHarsh671/ai-customer-support-assistant)**
+**Highlights**
 
----
+- FastAPI backend
+- Retrieval-augmented generation
+- PostgreSQL data storage
+- Conversation history
+- LLM integration
 
-## 📊 GitHub Stats
+<a href="https://github.com/SHarsh671/ai-customer-support-assistant">View Repository →</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHarsh671&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHarsh671&layout=compact&hide_border=true" height="170" />
-</p>
+</td>
 
----
+<td width="50%" valign="top">
 
-## 🌱 Currently Learning
+### 🌐 Personal Portfolio
 
-```text
-Java
-  ↓
-Spring Boot
-  ↓
-PostgreSQL + JPA/Hibernate
-  ↓
-Testing + Docker
-  ↓
-AWS
-  ↓
-Redis + Kafka + Microservices
-```
+**React · JavaScript · GitHub Pages**
 
-I'm continuously building projects and strengthening my understanding of backend engineering, system design, APIs, databases, and scalable software development.
+My personal developer portfolio showcasing projects, technical skills, and software engineering work.
+
+<a href="https://sharsh671.github.io">Visit Portfolio →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Education
+## GitHub
 
-**McMaster University**  
-B.A.Sc. Computer Science · 2026
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=SHarsh671&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
-## 📫 Let's Connect
+<br><br>
 
-I'm currently looking for **new graduate and entry-level software engineering opportunities**, particularly in backend and full-stack development.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHarsh671&hide_border=true&area=true" />
 
-**Portfolio:** https://sharsh671.github.io/  
-**LinkedIn:** https://www.linkedin.com/in/harshmeet-s-1367083a6/  
-**Email:** harshmeetsohi@gmail.com
+</div>
 
 ---
 
-<p align="center">
-  <i>Building, learning, and shipping.</i>
-</p>
+## What I Build
+
+<div align="center">
+
+**Backend Systems**  
+REST APIs · Databases · Authentication · Business Logic
+
+**Full-Stack Applications**  
+React · JavaScript · API Integration · Responsive Interfaces
+
+**AI Applications**  
+RAG · LLM Integration · Knowledge Retrieval · FastAPI
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Build Something
+
+<a href="https://sharsh671.github.io">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/harshmeet-s-1367083a6/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:harshmeetsohi@gmail.com">Email</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
+
+</div>
