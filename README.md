@@ -72,9 +72,7 @@ I enjoy working on backend systems while also exploring **full-stack development
 
 <strong>Java · Spring Boot · PostgreSQL · JPA/Hibernate · JUnit</strong>
 
-Backend REST API for managing job applications, companies, interviews, and application status.
-
-<br><br>
+<p>Backend REST API for managing job applications, companies, interviews, and application status.</p>
 
 <img src="https://img.shields.io/badge/18%20REST%20Endpoints-111827?style=flat-square" alt="18 REST endpoints" />
 <img src="https://img.shields.io/badge/6%20Tables-111827?style=flat-square" alt="6 tables" />
@@ -83,7 +81,7 @@ Backend REST API for managing job applications, companies, interviews, and appli
 <br><br>
 
 <a href="https://github.com/SHarsh671/job-application-management-platform">
-<img src="https://img.shields.io/badge/View%20Project-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
+<img src="https://img.shields.io/badge/View%20Project-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="View Job Application Manager on GitHub" />
 </a>
 
 </td>
@@ -93,9 +91,7 @@ Backend REST API for managing job applications, companies, interviews, and appli
 
 <strong>Java · Spring Boot · PostgreSQL · JUnit</strong>
 
-Backend service for managing portfolios, transactions, holdings and investment performance.
-
-<br><br>
+<p>Backend service for managing portfolios, transactions, holdings and investment performance.</p>
 
 <img src="https://img.shields.io/badge/14%20REST%20Endpoints-111827?style=flat-square" alt="14 REST endpoints" />
 <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square" alt="PostgreSQL" />
@@ -104,7 +100,7 @@ Backend service for managing portfolios, transactions, holdings and investment p
 <br><br>
 
 <a href="https://github.com/SHarsh671/stock-portfolio-tracker">
-<img src="https://img.shields.io/badge/View%20Project-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
+<img src="https://img.shields.io/badge/View%20Project-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="View Stock Portfolio Tracker on GitHub" />
 </a>
 
 </td>
@@ -112,40 +108,35 @@ Backend service for managing portfolios, transactions, holdings and investment p
 <tr>
 <td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
-<h3> Concentric Chess</h3>
+<h3>Concentric Chess</h3>
 
 <strong>TypeScript · React · Next.js · Tailwind CSS · Cloudflare Workers</strong>
 
-Live multiplayer chess platform built in a 7-person Agile team, featuring two original game variants.
+<p>Live multiplayer chess platform built in a 7-person Agile team, featuring two original game variants.</p>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/7--Person%20Agile%20Team-111827?style=flat-square">
-<img src="https://img.shields.io/badge/2%20Game%20Variants-111827?style=flat-square">
-<img src="https://img.shields.io/badge/20%2B%20Game%20Assets-111827?style=flat-square">
-<img src="https://img.shields.io/badge/Live%20Deployment-111827?style=flat-square">
+<img src="https://img.shields.io/badge/7--Person%20Agile%20Team-111827?style=flat-square" alt="7-person Agile team" />
+<img src="https://img.shields.io/badge/2%20Game%20Variants-111827?style=flat-square" alt="2 game variants" />
+<img src="https://img.shields.io/badge/20%2B%20Game%20Assets-111827?style=flat-square" alt="20+ game assets" />
+<img src="https://img.shields.io/badge/Live%20Deployment-111827?style=flat-square" alt="Live deployment" />
 
 <br><br>
 
 <a href="https://capstone.mrvillage.dev/">
-<img src="https://img.shields.io/badge/Live%20Site-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/Live%20Site-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Concentric Chess live site" />
 </a>
-
+&nbsp;
 <a href="https://github.com/mrvillage/capstone">
-<img src="https://img.shields.io/badge/Source-1f2937?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Source-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="View Concentric Chess source on GitHub" />
 </a>
 
 </td>
+<td width="50%" valign="top">
 
 <h3>Developer Portfolio</h3>
 
 <strong>React · JavaScript · GitHub Pages</strong>
 
-Personal portfolio showcasing projects, technical skills and software development work.
-
-<br><br>
+<p>Personal portfolio showcasing projects, technical skills and software development work.</p>
 
 <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=white" alt="React" />
 <img src="https://img.shields.io/badge/Responsive%20UI-111827?style=flat-square" alt="Responsive UI" />
@@ -154,7 +145,7 @@ Personal portfolio showcasing projects, technical skills and software developmen
 <br><br>
 
 <a href="https://sharsh671.github.io">
-<img src="https://img.shields.io/badge/Visit%20Site-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit site" />
+<img src="https://img.shields.io/badge/Visit%20Site-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio site" />
 </a>
 
 </td>
