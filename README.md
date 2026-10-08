@@ -28,9 +28,9 @@
 
 I'm a **Computer Science graduate from McMaster University** focused on backend and software development.
 
-I enjoy building reliable, maintainable applications — from REST APIs and database-driven systems to full-stack and AI-powered applications.
+I enjoy building reliable, maintainable applications from REST APIs and database-driven systems to full-stack and AI-powered applications.
 
-My current development focus is centered around **Java, Spring Boot, PostgreSQL, JPA/Hibernate, testing, and clean software architecture.**
+My current development focus is centered around **Java, Spring Boot, PostgreSQL, JPA/Hibernate, testing and clean software architecture.**
 
 ---
 
@@ -183,87 +183,6 @@ My personal portfolio showcasing my projects, technical skills, and software dev
 </tr>
 </table>
 
----
-
-<div align="center">
-
-## Engineering Focus
-
-<table>
-<tr>
-<td align="center" width="180">
-
-### ⚙️ Backend
-
-REST APIs  
-Business Logic  
-Database Design  
-API Architecture
-
-</td>
-
-<td align="center" width="180">
-
-### 🗄️ Data
-
-PostgreSQL  
-JPA / Hibernate  
-SQL  
-Data Modeling
-
-</td>
-
-<td align="center" width="180">
-
-### 🧪 Quality
-
-JUnit  
-Unit Testing  
-Validation  
-Error Handling
-
-</td>
-
-<td align="center" width="180">
-
-### 🤖 AI
-
-RAG  
-LLM Integration  
-Knowledge Retrieval  
-FastAPI
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## GitHub Projects
-
-<div align="center">
-
-<a href="https://github.com/SHarsh671/job-application-management-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHarsh671&repo=job-application-management-platform&hide_border=true&theme=transparent" />
-</a>
-
-<a href="https://github.com/SHarsh671/stock-portfolio-tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHarsh671&repo=stock-portfolio-tracker&hide_border=true&theme=transparent" />
-</a>
-
-<br>
-
-<a href="https://github.com/SHarsh671/ai-customer-support-assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHarsh671&repo=ai-customer-support-assistant&hide_border=true&theme=transparent" />
-</a>
-
-</div>
-
----
-
-<div align="center">
 
 ### Let's Connect
 
