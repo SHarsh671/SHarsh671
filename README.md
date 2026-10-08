@@ -26,11 +26,10 @@
 ## Hey there!
 
 <p>
-I like APIs that make sense, databases that stay organized<br>
-and test suites that stay green.
-</p>
-Backend is home base but I like wandering into **full-stack, cloud and AI-powered apps** whenever something looks fun.
+I like APIs that make sense, databases that stay organized and test suites that stay green.
 
+Backend is home base but I like wandering into **full-stack, cloud and AI-powered apps** whenever something looks fun.
+</p>
 ---
 
 ## The Toolbox
