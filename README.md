@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=HARSHMEET%20SINGH&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=I%20build%20backends%20that%20behave&descSize=20&descAlignY=60&animation=twinkling&color=0:000000,50:1f2937,100:4b5563" width="100%" alt="Harshmeet Singh, I build backends that behave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=HARSHMEET%20SINGH&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=I%20build%20backends%20that%20behave&descSize=20&descAlignY=60&animation=twinkling&color=0:000000,50:1f2937,100:4b5563" width="100%" alt="Harshmeet Singh" />
 
 <h3>Software Developer &nbsp;|&nbsp; Backend Engineering &nbsp;|&nbsp; McMaster CS Grad</h3>
 
 <p>
-I like APIs that make sense, databases that stay organized,<br>
+I like APIs that make sense, databases that stay organized<br>
 and test suites that stay green.
 </p>
 
@@ -27,23 +27,10 @@ and test suites that stay green.
 
 <br>
 
-## Hey, I'm Harshmeet
+## Hey there!
 
-```bash
-$ whoami
-harshmeet, backend developer and McMaster CS grad
 
-$ cat favorites.txt
-clean APIs, tidy schemas, green test suites
-
-$ cat currently_using.txt
-Java • Spring Boot • PostgreSQL • JPA/Hibernate • JUnit • Docker
-
-$ status
-building things, breaking things, fixing things
-```
-
-Backend is home base, but I like wandering into **full-stack, cloud and AI-powered apps** whenever something looks fun.
+Backend is home base but I like wandering into **full-stack, cloud and AI-powered apps** whenever something looks fun.
 
 ---
 
@@ -161,17 +148,6 @@ A responsive site showing off my projects, skills and the things I've been build
 
 ---
 
-## Rules I Code By
-
-```text
-1. Name things like someone else has to read them (they will).
-2. If it isn't tested, it isn't done.
-3. Make it work, then make it clean, then make it fast.
-4. Every endpoint deserves a clear error message.
-5. Commit early, commit often, write messages future-me can understand.
-```
-
----
 
 ## Watch the Snake Eat My Commits
 
@@ -187,7 +163,7 @@ A responsive site showing off my projects, skills and the things I've been build
 
 <div align="center">
 
-Got a backend problem, a project idea, or just want to talk code?<br>
+Got a backend problem, a project idea or just want to talk code?<br>
 My inbox is open.
 
 <br><br>
