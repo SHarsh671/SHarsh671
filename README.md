@@ -6,7 +6,7 @@
 
 ### Software Developer · Backend Engineering
 
-Computer Science graduate from **McMaster University**, building reliable backend systems with Java, Spring Boot, and PostgreSQL.
+Computer Science graduate from **McMaster University**, building reliable backend systems with Java, Spring Boot and PostgreSQL.
 
 <br>
 
@@ -28,7 +28,7 @@ Computer Science graduate from **McMaster University**, building reliable backen
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```text
 Backend-focused software developer who enjoys building
@@ -38,11 +38,11 @@ Currently focused on:
 Java • Spring Boot • PostgreSQL • JPA/Hibernate • JUnit • Docker
 ```
 
-I enjoy working on backend systems while also exploring **full-stack development, cloud technologies, and AI-powered applications.**
+I enjoy working on backend systems while also exploring **full-stack development, cloud technologies and AI-powered applications.**
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -66,14 +66,14 @@ I enjoy working on backend systems while also exploring **full-stack development
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>💼 Job Application Manager</h3>
+<h3>‍⬛ Job Application Manager</h3>
 
 <strong>Java · Spring Boot · PostgreSQL · JPA/Hibernate · JUnit</strong>
 
@@ -95,7 +95,7 @@ Backend REST API for managing job applications, companies, interviews, and appli
 
 <td width="50%" valign="top">
 
-<h3>📈 Stock Portfolio Tracker</h3>
+<h3>‍⬛ Stock Portfolio Tracker</h3>
 
 <strong>Java · Spring Boot · PostgreSQL · JUnit</strong>
 
@@ -121,7 +121,7 @@ Backend service for managing portfolios, transactions, holdings, and investment 
 
 <td width="50%" valign="top">
 
-<h3>🤖 AI Customer Support Assistant</h3>
+<h3>‍⬛ AI Customer Support Assistant</h3>
 
 <strong>Python · FastAPI · PostgreSQL · OpenAI</strong>
 
@@ -143,7 +143,7 @@ RAG-based support application that retrieves information from a custom knowledge
 
 <td width="50%" valign="top">
 
-<h3>🌐 Developer Portfolio</h3>
+<h3>‍⬛ Developer Portfolio</h3>
 
 <strong>React · JavaScript · GitHub Pages</strong>
 
@@ -193,18 +193,6 @@ Personal portfolio showcasing projects, technical skills, and software developme
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/SHarsh671/SHarsh671/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake">
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-`Java` → `Spring Boot` → `REST APIs` → `PostgreSQL` → `Testing`
-
-**Next:** Docker · AWS · Redis · Kafka · Microservices · CI/CD
 
 </div>
 
