@@ -1,125 +1,194 @@
 <div align="center">
 
-# Harshmeet Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=HARSHMEET%20SINGH&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20ENGINEERING&descSize=17&descAlignY=58&animation=fadeIn&color=0:111827,50:1f2937,100:374151" width="100%"/>
 
-**Software Developer · Backend Engineering**
+<br>
 
-Computer Science graduate from McMaster University, building reliable backend systems with Java, Spring Boot, and PostgreSQL.
+### Software Developer · Backend Engineering
 
-<a href="https://sharsh671.github.io"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/harshmeet-s-1367083a6/"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:harshmeetsohi@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+Computer Science graduate from **McMaster University**, building reliable backend systems with Java, Spring Boot, and PostgreSQL.
+
+<br>
+
+<a href="https://sharsh671.github.io">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/harshmeet-s-1367083a6/">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:harshmeetsohi@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SHarsh671&style=for-the-badge&color=374151&label=PROFILE+VIEWS">
 
 </div>
 
 ---
 
-## About
+## 🧠 About Me
 
-I enjoy building reliable software around REST APIs, databases, and clean application architecture, with additional experience in full-stack and AI-powered applications.
+```text
+Backend-focused software developer who enjoys building
+reliable systems around APIs, databases, and clean architecture.
 
-Currently focused on **Java, Spring Boot, PostgreSQL, JPA/Hibernate, testing, and backend engineering.**
+Currently focused on:
+Java • Spring Boot • PostgreSQL • JPA/Hibernate • JUnit • Docker
+```
 
-## Tech Stack
+I enjoy working on backend systems while also exploring **full-stack development, cloud technologies, and AI-powered applications.**
 
-**Languages**&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Java-1F2937?style=flat-square&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-1F2937?style=flat-square&logo=cplusplus&logoColor=white">
+---
 
-**Frameworks**&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Spring_Boot-1F2937?style=flat-square&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/REST_APIs-1F2937?style=flat-square">
+## ⚙️ Tech Stack
 
-**Data & Testing**&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-1F2937?style=flat-square&logo=hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/JUnit-1F2937?style=flat-square&logo=junit5&logoColor=white">
+<div align="center">
 
-**Tools**&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-1F2937?style=flat-square&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Maven-1F2937?style=flat-square&logo=apachemaven&logoColor=white">
+### Languages
 
-## Projects
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,bash&theme=dark" />
+
+### Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,react,nodejs&theme=dark" />
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,linux&theme=dark" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### Job Application Manager
+<h3>💼 Job Application Manager</h3>
 
-*Java · Spring Boot · PostgreSQL · JPA/Hibernate · JUnit*
+<strong>Java · Spring Boot · PostgreSQL · JPA/Hibernate · JUnit</strong>
 
 Backend REST API for managing job applications, companies, interviews, and application status.
 
-- 18 REST endpoints
-- 6-table PostgreSQL schema
-- 40+ JUnit tests
-- Validation and exception handling
+<br><br>
 
-[View project →](https://github.com/SHarsh671/job-application-management-platform)
+<img src="https://img.shields.io/badge/18%20REST%20Endpoints-111827?style=flat-square">
+<img src="https://img.shields.io/badge/6--Table%20Schema-111827?style=flat-square">
+<img src="https://img.shields.io/badge/40%2B%20Tests-111827?style=flat-square">
+
+<br><br>
+
+<a href="https://github.com/SHarsh671/job-application-management-platform">
+<img src="https://img.shields.io/badge/View%20Project-1f2937?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### Stock Portfolio Tracker
+<h3>📈 Stock Portfolio Tracker</h3>
 
-*Java · Spring Boot · PostgreSQL · JUnit*
+<strong>Java · Spring Boot · PostgreSQL · JUnit</strong>
 
 Backend service for managing portfolios, transactions, holdings, and investment performance.
 
-- 14 REST endpoints
-- Relational PostgreSQL schema
-- Portfolio calculations
-- Scheduled processing
+<br><br>
 
-[View project →](https://github.com/SHarsh671/stock-portfolio-tracker)
+<img src="https://img.shields.io/badge/14%20REST%20Endpoints-111827?style=flat-square">
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square">
+<img src="https://img.shields.io/badge/Scheduled%20Processing-111827?style=flat-square">
+
+<br><br>
+
+<a href="https://github.com/SHarsh671/stock-portfolio-tracker">
+<img src="https://img.shields.io/badge/View%20Project-1f2937?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### AI Customer Support Assistant
+<h3>🤖 AI Customer Support Assistant</h3>
 
-*Python · FastAPI · PostgreSQL · OpenAI*
+<strong>Python · FastAPI · PostgreSQL · OpenAI</strong>
 
 RAG-based support application that retrieves information from a custom knowledge base before generating responses.
 
-- FastAPI backend
-- Retrieval-augmented generation
-- Conversation history
-- LLM integration
+<br><br>
 
-[View project →](https://github.com/SHarsh671/ai-customer-support-assistant)
+<img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square">
+<img src="https://img.shields.io/badge/RAG-111827?style=flat-square">
+<img src="https://img.shields.io/badge/LLM%20Integration-111827?style=flat-square">
+
+<br><br>
+
+<a href="https://github.com/SHarsh671/ai-customer-support-assistant">
+<img src="https://img.shields.io/badge/View%20Project-1f2937?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### Developer Portfolio
+<h3>🌐 Developer Portfolio</h3>
 
-*React · JavaScript · GitHub Pages*
+<strong>React · JavaScript · GitHub Pages</strong>
 
 Personal portfolio showcasing projects, technical skills, and software development work.
 
-- React
-- Responsive UI
-- Project showcase
-- Deployed on GitHub Pages
+<br><br>
 
-[Visit site →](https://sharsh671.github.io)
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Responsive%20UI-111827?style=flat-square">
+<img src="https://img.shields.io/badge/Deployed-111827?style=flat-square">
+
+<br><br>
+
+<a href="https://sharsh671.github.io">
+<img src="https://img.shields.io/badge/Visit%20Site-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
 </td>
+
 </tr>
 </table>
 
-## Activity
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SHarsh671&show_icons=true&hide_border=true&bg_color=00000000&title_color=374151&icon_color=374151&text_color=6b7280&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHarsh671&layout=compact&hide_border=true&bg_color=00000000&title_color=374151&text_color=6b7280&langs_count=6" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SHarsh671&hide_border=true&background=00000000&ring=374151&fire=374151&currStreakLabel=374151&sideLabels=374151&currStreakNum=374151&sideNums=374151&dates=6b7280" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -129,8 +198,36 @@ Personal portfolio showcasing projects, technical skills, and software developme
 
 ---
 
+## 🎯 Current Focus
+
 <div align="center">
 
-Thanks for stopping by. Let's build something.
+`Java` → `Spring Boot` → `REST APIs` → `PostgreSQL` → `Testing`
+
+**Next:** Docker · AWS · Redis · Kafka · Microservices · CI/CD
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+Building backend systems, learning constantly, and looking for opportunities to create useful software.
+
+<br>
+
+<a href="https://sharsh671.github.io">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/harshmeet-s-1367083a6/">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:374151,50:1f2937,100:111827">
 
 </div>
