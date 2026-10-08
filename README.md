@@ -73,7 +73,7 @@ I enjoy working on backend systems while also exploring **full-stack development
 
 <td width="50%" valign="top">
 
-<h3>‍⬛ Job Application Manager</h3>
+<h3>✨ Job Application Manager</h3>
 
 <strong>Java · Spring Boot · PostgreSQL · JPA/Hibernate · JUnit</strong>
 
@@ -95,11 +95,11 @@ Backend REST API for managing job applications, companies, interviews, and appli
 
 <td width="50%" valign="top">
 
-<h3>‍⬛ Stock Portfolio Tracker</h3>
+<h3>✨ Stock Portfolio Tracker</h3>
 
 <strong>Java · Spring Boot · PostgreSQL · JUnit</strong>
 
-Backend service for managing portfolios, transactions, holdings, and investment performance.
+Backend service for managing portfolios, transactions, holdings and investment performance.
 
 <br><br>
 
@@ -121,7 +121,7 @@ Backend service for managing portfolios, transactions, holdings, and investment 
 
 <td width="50%" valign="top">
 
-<h3>‍⬛ AI Customer Support Assistant</h3>
+<h3>✨ AI Customer Support Assistant</h3>
 
 <strong>Python · FastAPI · PostgreSQL · OpenAI</strong>
 
@@ -143,11 +143,11 @@ RAG-based support application that retrieves information from a custom knowledge
 
 <td width="50%" valign="top">
 
-<h3>‍⬛ Developer Portfolio</h3>
+<h3>✨ Developer Portfolio</h3>
 
 <strong>React · JavaScript · GitHub Pages</strong>
 
-Personal portfolio showcasing projects, technical skills, and software development work.
+Personal portfolio showcasing projects, technical skills and software development work.
 
 <br><br>
 
@@ -168,25 +168,6 @@ Personal portfolio showcasing projects, technical skills, and software developme
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SHarsh671&show_icons=true&hide_border=true&bg_color=00000000&title_color=374151&icon_color=374151&text_color=6b7280&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHarsh671&layout=compact&hide_border=true&bg_color=00000000&title_color=374151&text_color=6b7280&langs_count=6" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SHarsh671&hide_border=true&background=00000000&ring=374151&fire=374151&currStreakLabel=374151&sideLabels=374151&currStreakNum=374151&sideNums=374151&dates=6b7280" />
-
-</div>
-
----
 
 ## 🐍 Contribution Activity
 
