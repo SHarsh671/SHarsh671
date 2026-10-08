@@ -158,7 +158,6 @@ A RAG-based customer support application that retrieves information from a custo
 </picture>
 
 </div>
-
 ---
 
 ## Let's Connect
