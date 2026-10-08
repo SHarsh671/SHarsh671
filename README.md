@@ -1,40 +1,28 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Harshmeet%20Singh&fontSize=48&fontColor=39FF14&fontAlignY=38&desc=Software%20Developer%20%7C%20Computer%20Science%20Graduate&descSize=18&descAlignY=64&animation=fadeIn&color=0:020402,50:061006,100:020402" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Harshmeet%20Singh&fontSize=48&fontColor=111111&fontAlignY=38&desc=Software%20Developer%20%7C%20Computer%20Science%20Graduate&descSize=18&descAlignY=64&animation=fadeIn&color=0:ffffff,50:f6f8f6,100:ffffff" />
-  <img alt="Harshmeet Singh — Software Developer" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Harshmeet%20Singh&fontSize=48&fontColor=111111&fontAlignY=38&desc=Software%20Developer%20%7C%20Computer%20Science%20Graduate&descSize=18&descAlignY=64&animation=fadeIn&color=0:ffffff,50:f6f8f6,100:ffffff" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Harshmeet%20Singh&fontSize=48&fontColor=39FF14&fontAlignY=38&desc=Software%20Developer%20%7C%20Computer%20Science%20Graduate&descSize=18&descAlignY=64&animation=fadeIn&color=0:010301,50:061006,100:010301">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Harshmeet%20Singh&fontSize=48&fontColor=111111&fontAlignY=38&desc=Software%20Developer%20%7C%20Computer%20Science%20Graduate&descSize=18&descAlignY=64&animation=fadeIn&color=0:ffffff,50:f8faf8,100:ffffff">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Harshmeet%20Singh&fontSize=48&fontColor=111111&fontAlignY=38&desc=Software%20Developer%20%7C%20Computer%20Science%20Graduate&descSize=18&descAlignY=64&animation=fadeIn&color=0:ffffff,50:f8faf8,100:ffffff" width="100%" alt="Harshmeet Singh">
 </picture>
 
 <br>
 
 <a href="https://sharsh671.github.io">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-020402?style=for-the-badge&logo=googlechrome&logoColor=39FF14" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PORTFOLIO-F6F8F6?style=for-the-badge&logo=googlechrome&logoColor=0B3D0B" />
-    <img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-F6F8F6?style=for-the-badge&logo=googlechrome&logoColor=0B3D0B" />
-  </picture>
+<img src="https://img.shields.io/badge/PORTFOLIO-0b0f0c?style=for-the-badge&logo=googlechrome&logoColor=39FF14" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/harshmeet-s-1367083a6/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-020402?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LINKEDIN-F6F8F6?style=for-the-badge&logo=linkedin&logoColor=0B3D0B" />
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-F6F8F6?style=for-the-badge&logo=linkedin&logoColor=0B3D0B" />
-  </picture>
+<img src="https://img.shields.io/badge/LINKEDIN-0b0f0c?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
 </a>
 &nbsp;
 <a href="mailto:harshmeetsohi@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-020402?style=for-the-badge&logo=gmail&logoColor=39FF14" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/EMAIL-F6F8F6?style=for-the-badge&logo=gmail&logoColor=0B3D0B" />
-    <img alt="Email" src="https://img.shields.io/badge/EMAIL-F6F8F6?style=for-the-badge&logo=gmail&logoColor=0B3D0B" />
-  </picture>
+<img src="https://img.shields.io/badge/EMAIL-0b0f0c?style=for-the-badge&logo=gmail&logoColor=39FF14" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=39FF14&center=true&vCenter=true&width=720&lines=Building+backend+systems+and+REST+APIs;Java+%7C+Spring+Boot+%7C+PostgreSQL;Turning+ideas+into+reliable+software;Building.+Breaking.+Fixing.+Shipping." alt="Building backend systems and REST APIs" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=39FF14&center=true&vCenter=true&width=720&lines=Building+backend+systems+and+REST+APIs;Java+%7C+Spring+Boot+%7C+PostgreSQL;Turning+ideas+into+reliable+software;Building.+Breaking.+Fixing.+Shipping." alt="Developer focus">
 
 </div>
 
@@ -42,11 +30,11 @@
 
 ## About
 
-I'm a **Computer Science graduate from McMaster University**, focused on backend and software development.
+I'm a **Computer Science graduate from McMaster University** focused on backend and software development.
 
-I like building software that stays reliable after the demo: REST APIs, database-backed systems, and — when the product needs it — full-stack and AI-powered applications.
+I enjoy building reliable software around **REST APIs, databases, and clean application architecture**, with additional experience in full-stack and AI-powered applications.
 
-Right now that work is centered on **Java, Spring Boot, PostgreSQL, JPA/Hibernate**, testing, and clean architecture.
+My current focus is **Java, Spring Boot, PostgreSQL, JPA/Hibernate, testing, and backend engineering**.
 
 ---
 
@@ -55,14 +43,14 @@ Right now that work is centered on **Java, Spring Boot, PostgreSQL, JPA/Hibernat
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,js,cpp,c,bash,spring,fastapi,react,git,github,docker,linux,maven,postgres&theme=dark&perline=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,js,cpp,c,bash,spring,fastapi,react,git,github,docker,linux,maven,postgres&theme=light&perline=8" />
-  <img alt="Java, Python, JavaScript, C++, C, Bash, Spring, FastAPI, React, Git, GitHub, Docker, Linux, Maven, PostgreSQL" src="https://skillicons.dev/icons?i=java,python,js,cpp,c,bash,spring,fastapi,react,git,github,docker,linux,maven,postgres&theme=light&perline=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,js,cpp,c,bash,spring,fastapi,react,git,github,docker,linux,maven,postgres&theme=dark&perline=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,js,cpp,c,bash,spring,fastapi,react,git,github,docker,linux,maven,postgres&theme=light&perline=8">
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,c,bash,spring,fastapi,react,git,github,docker,linux,maven,postgres&theme=light&perline=8" width="700" alt="Technical skills">
 </picture>
 
-<br>
+<br><br>
 
-<code>REST APIs</code>&nbsp;&nbsp;<code>JPA / Hibernate</code>&nbsp;&nbsp;<code>JUnit</code>&nbsp;&nbsp;<code>Postman</code>&nbsp;&nbsp;<code>Swagger</code>
+`REST APIs` &nbsp; `JPA / Hibernate` &nbsp; `JUnit` &nbsp; `Postman` &nbsp; `Swagger`
 
 </div>
 
@@ -72,89 +60,97 @@ Right now that work is centered on **Java, Spring Boot, PostgreSQL, JPA/Hibernat
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### Job Application Manager
+### 🔹 Job Application Manager
 
 **Java · Spring Boot · PostgreSQL · JPA/Hibernate · JUnit**
 
-REST API for tracking applications, companies, interviews, and status.
+Backend REST API for tracking job applications, companies, interviews, and application status.
 
-- PostgreSQL model with JPA / Hibernate
-- Request validation and global exception handling
-- JUnit coverage on the core flows
+**Highlights**
+
+- 18 REST endpoints
+- 6-table PostgreSQL schema
+- JPA / Hibernate persistence
+- Request validation & exception handling
+- 40+ JUnit tests
 
 <br>
 
 <a href="https://github.com/SHarsh671/job-application-management-platform">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VIEW%20PROJECT-020402?style=for-the-badge&logo=github&logoColor=39FF14" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VIEW%20PROJECT-F6F8F6?style=for-the-badge&logo=github&logoColor=0B3D0B" />
-    <img alt="View Job Application Manager" src="https://img.shields.io/badge/VIEW%20PROJECT-F6F8F6?style=for-the-badge&logo=github&logoColor=0B3D0B" />
-  </picture>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0b0f0c?style=for-the-badge&logo=github&logoColor=39FF14">
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### Stock Portfolio Tracker
+### 🔹 Stock Portfolio Tracker
 
 **Java · Spring Boot · PostgreSQL · JUnit**
 
-Backend for portfolios, transactions, holdings, and performance.
+Backend service for managing portfolios, transactions, holdings, and investment performance.
 
-- Portfolio and transaction APIs
-- Holdings math and performance calculations
-- Scheduled background processing
-- Automated tests
+**Highlights**
+
+- 14 REST endpoints
+- Relational PostgreSQL schema
+- Portfolio calculations
+- Scheduled market-data processing
+- 30+ JUnit tests
 
 <br>
 
 <a href="https://github.com/SHarsh671/stock-portfolio-tracker">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VIEW%20PROJECT-020402?style=for-the-badge&logo=github&logoColor=39FF14" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VIEW%20PROJECT-F6F8F6?style=for-the-badge&logo=github&logoColor=0B3D0B" />
-    <img alt="View Stock Portfolio Tracker" src="https://img.shields.io/badge/VIEW%20PROJECT-F6F8F6?style=for-the-badge&logo=github&logoColor=0B3D0B" />
-  </picture>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0b0f0c?style=for-the-badge&logo=github&logoColor=39FF14">
 </a>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### AI Customer Support Assistant
+### 🔹 AI Customer Support Assistant
 
 **Python · FastAPI · PostgreSQL · OpenAI**
 
-RAG support app that answers from a custom knowledge base instead of guessing.
+RAG-based support application that retrieves information from a custom knowledge base before generating responses.
 
-- FastAPI backend with conversation history
-- Retrieval over stored knowledge
-- Responses grounded in that context
+**Highlights**
+
+- FastAPI backend
+- Retrieval-augmented generation
+- PostgreSQL conversation storage
+- Custom knowledge base
+- LLM integration
 
 <br>
 
 <a href="https://github.com/SHarsh671/ai-customer-support-assistant">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VIEW%20PROJECT-020402?style=for-the-badge&logo=github&logoColor=39FF14" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VIEW%20PROJECT-F6F8F6?style=for-the-badge&logo=github&logoColor=0B3D0B" />
-    <img alt="View AI Customer Support Assistant" src="https://img.shields.io/badge/VIEW%20PROJECT-F6F8F6?style=for-the-badge&logo=github&logoColor=0B3D0B" />
-  </picture>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0b0f0c?style=for-the-badge&logo=github&logoColor=39FF14">
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### Developer Terminal
+### 🔹 Developer Terminal
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=800&color=39FF14&center=true&vCenter=true&width=420&height=168&lines=%24+whoami;Harshmeet+Singh;%24+role;Software+Developer;%24+stack;Java+%7C+Spring+Boot+%7C+PostgreSQL;%24+status;Building.+Breaking.+Fixing.+Shipping." alt="Developer terminal" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=800&color=39FF14&center=true&vCenter=true&width=430&height=180&lines=%24+whoami;Harshmeet+Singh;%24+focus;Backend+Engineering;%24+stack;Java+%7C+Spring+Boot;%24+database;PostgreSQL;%24+status;Building.+Shipping." alt="Developer terminal">
 
 </div>
 
 </td>
+
 </tr>
 </table>
 
@@ -164,46 +160,38 @@ RAG support app that answers from a custom knowledge base instead of guessing.
 
 <div align="center">
 
-<img alt="GitHub contribution snake, neon green on near-black" src="https://raw.githubusercontent.com/SHarsh671/SHarsh671/output/github-snake-dark.svg" width="100%" />
+<img
+  src="https://raw.githubusercontent.com/SHarsh671/SHarsh671/output/github-snake-dark.svg"
+  width="100%"
+  alt="GitHub contribution snake"
+/>
 
 </div>
 
 ---
 
-## Let's Connect
-
 <div align="center">
 
+### Let's build something.
+
 <a href="https://sharsh671.github.io">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-020402?style=for-the-badge&logo=googlechrome&logoColor=39FF14" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PORTFOLIO-F6F8F6?style=for-the-badge&logo=googlechrome&logoColor=0B3D0B" />
-    <img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-F6F8F6?style=for-the-badge&logo=googlechrome&logoColor=0B3D0B" />
-  </picture>
+<img src="https://img.shields.io/badge/PORTFOLIO-0b0f0c?style=for-the-badge&logo=googlechrome&logoColor=39FF14">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/harshmeet-s-1367083a6/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-020402?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LINKEDIN-F6F8F6?style=for-the-badge&logo=linkedin&logoColor=0B3D0B" />
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-F6F8F6?style=for-the-badge&logo=linkedin&logoColor=0B3D0B" />
-  </picture>
+<img src="https://img.shields.io/badge/LINKEDIN-0b0f0c?style=for-the-badge&logo=linkedin&logoColor=39FF14">
 </a>
 &nbsp;
 <a href="mailto:harshmeetsohi@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-020402?style=for-the-badge&logo=gmail&logoColor=39FF14" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/EMAIL-F6F8F6?style=for-the-badge&logo=gmail&logoColor=0B3D0B" />
-    <img alt="Email" src="https://img.shields.io/badge/EMAIL-F6F8F6?style=for-the-badge&logo=gmail&logoColor=0B3D0B" />
-  </picture>
+<img src="https://img.shields.io/badge/EMAIL-0b0f0c?style=for-the-badge&logo=gmail&logoColor=39FF14">
 </a>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020402,50:061006,100:020402" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffffff,50:f6f8f6,100:ffffff" />
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffffff,50:f6f8f6,100:ffffff" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:010301,50:061006,100:010301">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffffff,50:f8faf8,100:ffffff">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffffff,50:f8faf8,100:ffffff" width="100%" alt="">
 </picture>
 
 </div>
