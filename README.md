@@ -1,15 +1,3 @@
-This version is the right direction. Same slate palette, same projects, just tightened so it stays readable.
-
-The waving header is only 40% opaque, so `HARSHMEET SINGH` in white nearly disappears on a light page. The header is now a solid slate bar in your colors (`#111827` → `#374151`), so the name stays white in both themes. The footer is an opaque wave instead of another faint one.
-
-Also cleaned up, without changing the content:
-
-- Dropped the subtitle that repeated the banner
-- Matched the Portfolio, LinkedIn, and Email buttons
-- Removed the sparkles so the project titles read first
-- `6-Table Schema` now says **6 Tables**
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=168&section=header&text=HARSHMEET%20SINGH&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20ENGINEERING&descSize=16&descAlignY=62&animation=fadeIn&color=0:111827,50:1f2937,100:374151" width="100%" alt="Harshmeet Singh, Software Developer" />
@@ -204,6 +192,3 @@ Building backend systems, learning constantly, and looking for opportunities to 
 <img src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&color=0:374151,50:1f2937,100:111827" width="100%" alt="" />
 
 </div>
-```
-
-Paste that over the profile `README.md`. Flip GitHub to light mode once and check the name on the banner.
