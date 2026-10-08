@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=168&section=header&text=HARSHMEET%20SINGH&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20ENGINEERING&descSize=16&descAlignY=62&animation=fadeIn&color=0:111827,50:1f2937,100:374151" width="100%" alt="Harshmeet Singh, Software Developer" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=6B7280&center=true&vCenter=true&width=640&height=50&lines=Backend+Engineering;REST+APIs+%26+Databases;Clean+Architecture+%26+Testing;Exploring+Full-Stack+%26+Cloud" alt="Typing animation: Backend Engineering, REST APIs and Databases, Clean Architecture and Testing, Exploring Full-Stack and Cloud" />
+
 <br>
 
 Computer Science graduate from <strong>McMaster University</strong>, building reliable backend systems with Java, Spring Boot and PostgreSQL.
@@ -39,6 +41,17 @@ Java • Spring Boot • PostgreSQL • JPA/Hibernate • JUnit • Docker
 ```
 
 I enjoy working on backend systems while also exploring **full-stack development, cloud technologies and AI-powered applications.**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Backend-111827?style=flat-square" alt="Backend" />
+<img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Database%20Design-111827?style=flat-square" alt="Database design" />
+<img src="https://img.shields.io/badge/Unit%20Testing-111827?style=flat-square" alt="Unit testing" />
+<img src="https://img.shields.io/badge/Agile-111827?style=flat-square" alt="Agile" />
+<img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=flat-square" alt="Clean architecture" />
+
+</div>
 
 ---
 
@@ -154,9 +167,34 @@ I enjoy working on backend systems while also exploring **full-stack development
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-readme-stats.vercel.app/api?username=SHarsh671&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=111827&title_color=ffffff&text_color=d1d5db&icon_color=ffffff&border_color=374151" width="100%" alt="GitHub stats" />
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHarsh671&layout=compact&langs_count=6&bg_color=111827&title_color=ffffff&text_color=d1d5db&border_color=374151" width="100%" alt="Most used languages" />
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=SHarsh671&background=111827&border=374151&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=9ca3af&dates=6b7280" width="100%" alt="GitHub streak stats" />
+
+</div>
+
+---
+
 ## Contribution Activity
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHarsh671&bg_color=111827&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=374151&title_color=ffffff&hide_border=true" width="100%" alt="GitHub activity graph" />
+
+<br><br>
 
 <img src="https://raw.githubusercontent.com/SHarsh671/SHarsh671/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
 
