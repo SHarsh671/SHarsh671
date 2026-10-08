@@ -1,41 +1,36 @@
 <div align="center">
 
-# Harshmeet Singh
-
-### Software Developer · Computer Science Graduate
-
-Building backend systems, REST APIs, and full-stack applications with a focus on **Java, Spring Boot, PostgreSQL, and scalable software design.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Harshmeet%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20Computer%20Science%20Graduate&descSize=18&descAlignY=62&animation=fadeIn&color=0:111827,50:1f2937,100:111827" width="100%"/>
 
 <br>
 
 <a href="https://sharsh671.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/harshmeet-s-1367083a6/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:harshmeetsohi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/SHarsh671">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SHarsh671&style=flat-square&color=grey&label=Profile+Views" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=650&lines=Building+backend+systems+and+REST+APIs;Java+%7C+Spring+Boot+%7C+PostgreSQL;Turning+ideas+into+reliable+software;Always+building%2C+learning%2C+shipping." />
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a **Computer Science graduate from McMaster University** who enjoys turning ideas into reliable software.
+I'm a **Computer Science graduate from McMaster University** focused on backend and software development.
 
-My main focus is backend development, with experience building RESTful APIs, database-driven applications, automated tests, and AI-powered applications.
+I enjoy building reliable, maintainable applications — from REST APIs and database-driven systems to full-stack and AI-powered applications.
 
-I care about writing **clean, maintainable code**, understanding how systems work under the hood, and continuously improving the things I build.
+My current development focus is centered around **Java, Spring Boot, PostgreSQL, JPA/Hibernate, testing, and clean software architecture.**
 
 ---
 
@@ -43,23 +38,43 @@ I care about writing **clean, maintainable code**, understanding how systems wor
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="160">
+
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,js,cpp,c,bash" />
 
-<br><br>
+</td>
+
+<td align="center" width="160">
 
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=spring,fastapi,react" />
 
-<br><br>
+</td>
 
-### Databases & Infrastructure
+<td align="center" width="160">
 
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux,maven" />
+### Tools
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,maven" />
+
+</td>
+
+<td align="center" width="160">
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgres" />
+
+</td>
+</tr>
+</table>
+
+<br>
 
 `REST APIs` &nbsp; `JPA / Hibernate` &nbsp; `JUnit` &nbsp; `Postman` &nbsp; `Swagger`
 
@@ -71,23 +86,29 @@ I care about writing **clean, maintainable code**, understanding how systems wor
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 💼 Job Application Manager
 
 **Java · Spring Boot · PostgreSQL · JPA/Hibernate · JUnit**
 
-Backend REST API designed to manage job applications, companies, interviews, and application statuses.
+A backend REST API for managing job applications, companies, interviews, and application statuses.
 
-**Highlights**
+**Built with**
 
 - RESTful API architecture
-- Relational PostgreSQL database
-- JPA/Hibernate persistence
-- Request validation & exception handling
+- PostgreSQL relational database
+- JPA / Hibernate persistence
+- Request validation
+- Global exception handling
 - Automated unit testing
 
-<a href="https://github.com/SHarsh671/job-application-management-platform">View Repository →</a>
+<br>
+
+<a href="https://github.com/SHarsh671/job-application-management-platform">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
@@ -97,9 +118,9 @@ Backend REST API designed to manage job applications, companies, interviews, and
 
 **Java · Spring Boot · PostgreSQL · JUnit**
 
-Backend service for managing investment portfolios, transactions, holdings, and portfolio performance.
+A backend service for managing investment portfolios, transactions, holdings, and portfolio performance.
 
-**Highlights**
+**Built with**
 
 - Portfolio management APIs
 - Relational database design
@@ -107,21 +128,27 @@ Backend service for managing investment portfolios, transactions, holdings, and 
 - Scheduled background processing
 - Automated testing
 
-<a href="https://github.com/SHarsh671/stock-portfolio-tracker">View Repository →</a>
+<br>
+
+<a href="https://github.com/SHarsh671/stock-portfolio-tracker">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🤖 AI Customer Support Assistant
 
 **Python · FastAPI · PostgreSQL · OpenAI**
 
-RAG-based customer support application that retrieves information from a custom knowledge base to generate context-aware responses.
+A RAG-based customer support application that retrieves information from a custom knowledge base to generate context-aware responses.
 
-**Highlights**
+**Built with**
 
 - FastAPI backend
 - Retrieval-augmented generation
@@ -129,52 +156,108 @@ RAG-based customer support application that retrieves information from a custom 
 - Conversation history
 - LLM integration
 
-<a href="https://github.com/SHarsh671/ai-customer-support-assistant">View Repository →</a>
+<br>
+
+<a href="https://github.com/SHarsh671/ai-customer-support-assistant">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 Personal Portfolio
+### 🌐 Developer Portfolio
 
 **React · JavaScript · GitHub Pages**
 
-My personal developer portfolio showcasing projects, technical skills, and software engineering work.
+My personal portfolio showcasing my projects, technical skills, and software development work.
 
-<a href="https://sharsh671.github.io">Visit Portfolio →</a>
+<br><br>
+
+<a href="https://sharsh671.github.io">
+<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## GitHub
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SHarsh671&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" />
+## Engineering Focus
 
-<br><br>
+<table>
+<tr>
+<td align="center" width="180">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHarsh671&hide_border=true&area=true" />
+### ⚙️ Backend
+
+REST APIs  
+Business Logic  
+Database Design  
+API Architecture
+
+</td>
+
+<td align="center" width="180">
+
+### 🗄️ Data
+
+PostgreSQL  
+JPA / Hibernate  
+SQL  
+Data Modeling
+
+</td>
+
+<td align="center" width="180">
+
+### 🧪 Quality
+
+JUnit  
+Unit Testing  
+Validation  
+Error Handling
+
+</td>
+
+<td align="center" width="180">
+
+### 🤖 AI
+
+RAG  
+LLM Integration  
+Knowledge Retrieval  
+FastAPI
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## What I Build
+## GitHub Projects
 
 <div align="center">
 
-**Backend Systems**  
-REST APIs · Databases · Authentication · Business Logic
+<a href="https://github.com/SHarsh671/job-application-management-platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHarsh671&repo=job-application-management-platform&hide_border=true&theme=transparent" />
+</a>
 
-**Full-Stack Applications**  
-React · JavaScript · API Integration · Responsive Interfaces
+<a href="https://github.com/SHarsh671/stock-portfolio-tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHarsh671&repo=stock-portfolio-tracker&hide_border=true&theme=transparent" />
+</a>
 
-**AI Applications**  
-RAG · LLM Integration · Knowledge Retrieval · FastAPI
+<br>
+
+<a href="https://github.com/SHarsh671/ai-customer-support-assistant">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHarsh671&repo=ai-customer-support-assistant&hide_border=true&theme=transparent" />
+</a>
 
 </div>
 
@@ -182,16 +265,16 @@ RAG · LLM Integration · Knowledge Retrieval · FastAPI
 
 <div align="center">
 
-### Let's Build Something
+### Let's Connect
 
 <a href="https://sharsh671.github.io">Portfolio</a>
-&nbsp; · &nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/harshmeet-s-1367083a6/">LinkedIn</a>
-&nbsp; · &nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:harshmeetsohi@gmail.com">Email</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:1f2937,100:111827" width="100%"/>
 
 </div>
