@@ -1,24 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Harshmeet%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20Computer%20Science%20Graduate&descSize=18&descAlignY=62&animation=fadeIn&color=0:111827,50:1f2937,100:111827" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Harshmeet%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20Computer%20Science%20Graduate&descSize=18&descAlignY=62&animation=fadeIn&color=0:0f172a,50:172554,100:0f172a" width="100%"/>
 
 <br>
 
 <a href="https://sharsh671.github.io">
-<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/harshmeet-s-1367083a6/">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
 </a>
 &nbsp;
 <a href="mailto:harshmeetsohi@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=650&lines=Building+backend+systems+and+REST+APIs;Java+%7C+Spring+Boot+%7C+PostgreSQL;Turning+ideas+into+reliable+software;Always+building%2C+learning%2C+shipping." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+backend+systems+and+REST+APIs;Java+%7C+Spring+Boot+%7C+PostgreSQL;Turning+ideas+into+reliable+software;Building.+Breaking.+Fixing.+Shipping." />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:38bdf8,50:818cf8,100:38bdf8" width="70%"/>
 
 </div>
 
@@ -30,51 +34,17 @@ I'm a **Computer Science graduate from McMaster University** focused on backend 
 
 I enjoy building reliable, maintainable applications from REST APIs and database-driven systems to full-stack and AI-powered applications.
 
-My current development focus is centered around **Java, Spring Boot, PostgreSQL, JPA/Hibernate, testing and clean software architecture.**
+My development focus is centered around **Java, Spring Boot, PostgreSQL, JPA/Hibernate, testing, and clean software architecture.**
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c,bash,spring,fastapi,react,postgres,docker,git,github,linux,maven&perline=8" />
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c,bash" />
-
-</td>
-
-<td align="center" width="160">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=spring,fastapi,react" />
-
-</td>
-
-<td align="center" width="160">
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,maven" />
-
-</td>
-
-<td align="center" width="160">
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-
-</td>
-</tr>
-</table>
-
-<br>
+<br><br>
 
 `REST APIs` &nbsp; `JPA / Hibernate` &nbsp; `JUnit` &nbsp; `Postman` &nbsp; `Swagger`
 
@@ -82,20 +52,24 @@ My current development focus is centered around **Java, Spring Boot, PostgreSQL,
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 💼 Job Application Manager
+<h3>💼 Job Application Manager</h3>
 
-**Java · Spring Boot · PostgreSQL · JPA/Hibernate · JUnit**
+<b>Java · Spring Boot · PostgreSQL · JPA/Hibernate · JUnit</b>
+
+<br><br>
 
 A backend REST API for managing job applications, companies, interviews, and application statuses.
 
-**Built with**
+<br><br>
+
+<b>Built with</b>
 
 - RESTful API architecture
 - PostgreSQL relational database
@@ -107,20 +81,24 @@ A backend REST API for managing job applications, companies, interviews, and app
 <br>
 
 <a href="https://github.com/SHarsh671/job-application-management-platform">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📈 Stock Portfolio Tracker
+<h3>📈 Stock Portfolio Tracker</h3>
 
-**Java · Spring Boot · PostgreSQL · JUnit**
+<b>Java · Spring Boot · PostgreSQL · JUnit</b>
+
+<br><br>
 
 A backend service for managing investment portfolios, transactions, holdings, and portfolio performance.
 
-**Built with**
+<br><br>
+
+<b>Built with</b>
 
 - Portfolio management APIs
 - Relational database design
@@ -131,7 +109,7 @@ A backend service for managing investment portfolios, transactions, holdings, an
 <br>
 
 <a href="https://github.com/SHarsh671/stock-portfolio-tracker">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" />
 </a>
 
 </td>
@@ -142,13 +120,17 @@ A backend service for managing investment portfolios, transactions, holdings, an
 
 <td width="50%" valign="top">
 
-### 🤖 AI Customer Support Assistant
+<h3>🤖 AI Customer Support Assistant</h3>
 
-**Python · FastAPI · PostgreSQL · OpenAI**
+<b>Python · FastAPI · PostgreSQL · OpenAI</b>
+
+<br><br>
 
 A RAG-based customer support application that retrieves information from a custom knowledge base to generate context-aware responses.
 
-**Built with**
+<br><br>
+
+<b>Built with</b>
 
 - FastAPI backend
 - Retrieval-augmented generation
@@ -159,41 +141,62 @@ A RAG-based customer support application that retrieves information from a custo
 <br>
 
 <a href="https://github.com/SHarsh671/ai-customer-support-assistant">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 Developer Portfolio
+<div align="center">
 
-**React · JavaScript · GitHub Pages**
+<br>
 
-My personal portfolio showcasing my projects, technical skills, and software development work.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=700&color=7DD3FC&center=true&vCenter=true&width=300&height=120&lines=%24+whoami;Harshmeet+Singh;%24+stack;Java+%2B+Spring+Boot;%24+database;PostgreSQL;%24+status;Shipping+software+%E2%9C%93" />
 
 <br><br>
 
-<a href="https://sharsh671.github.io">
-<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<b>More projects & experiments</b>
+
+<br><br>
+
+<a href="https://github.com/SHarsh671">
+<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" />
 </a>
+
+</div>
 
 </td>
 
 </tr>
 </table>
 
+---
 
-### Let's Connect
+<div align="center">
 
-<a href="https://sharsh671.github.io">Portfolio</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/harshmeet-s-1367083a6/">LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:harshmeetsohi@gmail.com">Email</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:38bdf8,50:818cf8,100:38bdf8" width="70%"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:1f2937,100:111827" width="100%"/>
+### `> build → break → debug → improve → ship`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github" />
+
+<br><br>
+
+<a href="https://sharsh671.github.io">
+<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/harshmeet-s-1367083a6/">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:172554,100:0f172a" width="100%"/>
 
 </div>
