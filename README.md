@@ -5,24 +5,20 @@
 <br>
 
 <a href="https://sharsh671.github.io">
-<img src="https://img.shields.io/badge/PORTFOLIO-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/PORTFOLIO-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/harshmeet-s-1367083a6/">
-<img src="https://img.shields.io/badge/LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 &nbsp;
 <a href="mailto:harshmeetsohi@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+backend+systems+and+REST+APIs;Java+%7C+Spring+Boot+%7C+PostgreSQL;Turning+ideas+into+reliable+software;Building.+Breaking.+Fixing.+Shipping." />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:38bdf8,50:818cf8,100:38bdf8" width="70%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+backend+systems+and+REST+APIs;Java+%7C+Spring+Boot+%7C+PostgreSQL;Turning+ideas+into+reliable+software;Building.+Breaking.+Fixing.+Shipping." />
 
 </div>
 
@@ -34,15 +30,15 @@ I'm a **Computer Science graduate from McMaster University** focused on backend 
 
 I enjoy building reliable, maintainable applications from REST APIs and database-driven systems to full-stack and AI-powered applications.
 
-My development focus is centered around **Java, Spring Boot, PostgreSQL, JPA/Hibernate, testing, and clean software architecture.**
+My current development focus is centered around **Java, Spring Boot, PostgreSQL, JPA/Hibernate, testing and clean software architecture.**
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c,bash,spring,fastapi,react,postgres,docker,git,github,linux,maven&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c,bash,spring,fastapi,react,git,github,docker,linux,maven,postgres" />
 
 <br><br>
 
@@ -52,24 +48,20 @@ My development focus is centered around **Java, Spring Boot, PostgreSQL, JPA/Hib
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>💼 Job Application Manager</h3>
+### 🔹 Job Application Manager
 
-<b>Java · Spring Boot · PostgreSQL · JPA/Hibernate · JUnit</b>
-
-<br><br>
+**Java · Spring Boot · PostgreSQL · JPA/Hibernate · JUnit**
 
 A backend REST API for managing job applications, companies, interviews, and application statuses.
 
-<br><br>
-
-<b>Built with</b>
+**Built with**
 
 - RESTful API architecture
 - PostgreSQL relational database
@@ -81,24 +73,20 @@ A backend REST API for managing job applications, companies, interviews, and app
 <br>
 
 <a href="https://github.com/SHarsh671/job-application-management-platform">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>📈 Stock Portfolio Tracker</h3>
+### 🔹 Stock Portfolio Tracker
 
-<b>Java · Spring Boot · PostgreSQL · JUnit</b>
-
-<br><br>
+**Java · Spring Boot · PostgreSQL · JUnit**
 
 A backend service for managing investment portfolios, transactions, holdings, and portfolio performance.
 
-<br><br>
-
-<b>Built with</b>
+**Built with**
 
 - Portfolio management APIs
 - Relational database design
@@ -109,7 +97,7 @@ A backend service for managing investment portfolios, transactions, holdings, an
 <br>
 
 <a href="https://github.com/SHarsh671/stock-portfolio-tracker">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8" />
 </a>
 
 </td>
@@ -120,17 +108,13 @@ A backend service for managing investment portfolios, transactions, holdings, an
 
 <td width="50%" valign="top">
 
-<h3>🤖 AI Customer Support Assistant</h3>
+### 🔹 AI Customer Support Assistant
 
-<b>Python · FastAPI · PostgreSQL · OpenAI</b>
-
-<br><br>
+**Python · FastAPI · PostgreSQL · OpenAI**
 
 A RAG-based customer support application that retrieves information from a custom knowledge base to generate context-aware responses.
 
-<br><br>
-
-<b>Built with</b>
+**Built with**
 
 - FastAPI backend
 - Retrieval-augmented generation
@@ -141,28 +125,18 @@ A RAG-based customer support application that retrieves information from a custo
 <br>
 
 <a href="https://github.com/SHarsh671/ai-customer-support-assistant">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
+### 🔹 Developer Terminal
+
 <div align="center">
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=700&color=7DD3FC&center=true&vCenter=true&width=300&height=120&lines=%24+whoami;Harshmeet+Singh;%24+stack;Java+%2B+Spring+Boot;%24+database;PostgreSQL;%24+status;Shipping+software+%E2%9C%93" />
-
-<br><br>
-
-<b>More projects & experiments</b>
-
-<br><br>
-
-<a href="https://github.com/SHarsh671">
-<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=420&height=180&lines=%24+whoami;Harshmeet+Singh;%24+stack;Java+%2B+Spring+Boot;%24+database;PostgreSQL;%24+status;Shipping+software+%E2%9C%93" />
 
 </div>
 
@@ -173,26 +147,34 @@ A RAG-based customer support application that retrieves information from a custo
 
 ---
 
+## Activity
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:38bdf8,50:818cf8,100:38bdf8" width="70%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHarsh671/SHarsh671/output/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHarsh671/SHarsh671/output/dist/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SHarsh671/SHarsh671/output/dist/github-snake.svg" width="100%">
+</picture>
 
-<br><br>
+</div>
 
-### `> build → break → debug → improve → ship`
+---
 
-<br>
+## Let's Connect
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github" />
-
-<br><br>
+<div align="center">
 
 <a href="https://sharsh671.github.io">
-<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/PORTFOLIO-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/harshmeet-s-1367083a6/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+</a>
+&nbsp;
+<a href="mailto:harshmeetsohi@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
 
 <br><br>
