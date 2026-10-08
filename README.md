@@ -1,13 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=HARSHMEET%20SINGH&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=I%20build%20backends%20that%20behave&descSize=20&descAlignY=60&animation=twinkling&color=0:000000,50:1f2937,100:4b5563" width="100%" alt="Harshmeet Singh" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=HARSHMEET%20SINGH&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=&animation=twinkling&color=0:000000,50:1f2937,100:4b5563" width="100%" alt="Harshmeet Singh" />
 
 <h3>Software Developer &nbsp;|&nbsp; Backend Engineering &nbsp;|&nbsp; McMaster CS Grad</h3>
 
-<p>
-I like APIs that make sense, databases that stay organized<br>
-and test suites that stay green.
-</p>
 
 <a href="https://sharsh671.github.io">
 <img src="https://img.shields.io/badge/PORTFOLIO-open-111827?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=374151" alt="Portfolio" />
@@ -29,7 +25,10 @@ and test suites that stay green.
 
 ## Hey there!
 
-
+<p>
+I like APIs that make sense, databases that stay organized<br>
+and test suites that stay green.
+</p>
 Backend is home base but I like wandering into **full-stack, cloud and AI-powered apps** whenever something looks fun.
 
 ---
