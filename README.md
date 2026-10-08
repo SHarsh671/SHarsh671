@@ -112,26 +112,32 @@ Backend service for managing portfolios, transactions, holdings and investment p
 <tr>
 <td width="50%" valign="top">
 
-<h3>AI Customer Support Assistant</h3>
+<td width="50%" valign="top">
 
-<strong>Python · FastAPI · PostgreSQL · OpenAI</strong>
+<h3> Concentric Chess</h3>
 
-RAG-based support application that retrieves information from a custom knowledge base before generating responses.
+<strong>TypeScript · React · Next.js · Tailwind CSS · Cloudflare Workers</strong>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square" alt="FastAPI" />
-<img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG" />
-<img src="https://img.shields.io/badge/LLM%20Integration-111827?style=flat-square" alt="LLM integration" />
+Live multiplayer chess platform built in a 7-person Agile team, featuring two original game variants.
 
 <br><br>
 
-<a href="https://github.com/SHarsh671/ai-customer-support-assistant">
-<img src="https://img.shields.io/badge/View%20Project-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
+<img src="https://img.shields.io/badge/7--Person%20Agile%20Team-111827?style=flat-square">
+<img src="https://img.shields.io/badge/2%20Game%20Variants-111827?style=flat-square">
+<img src="https://img.shields.io/badge/20%2B%20Game%20Assets-111827?style=flat-square">
+<img src="https://img.shields.io/badge/Live%20Deployment-111827?style=flat-square">
+
+<br><br>
+
+<a href="https://capstone.mrvillage.dev/">
+<img src="https://img.shields.io/badge/Live%20Site-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://github.com/mrvillage/capstone">
+<img src="https://img.shields.io/badge/Source-1f2937?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
-<td width="50%" valign="top">
 
 <h3>Developer Portfolio</h3>
 
@@ -171,7 +177,7 @@ Personal portfolio showcasing projects, technical skills and software developmen
 
 <div align="center">
 
-Building backend systems, learning constantly, and looking for opportunities to create useful software.
+Building backend systems, learning constantly and looking for opportunities to create useful software.
 
 <br><br>
 
