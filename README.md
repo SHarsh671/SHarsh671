@@ -58,42 +58,46 @@ Backend is home base but I like wandering into **full-stack, cloud and AI-powere
 <tr>
 <td width="50%" valign="top">
 
-<h3>Job Application Manager</h3>
+<h3>CareerPulse</h3>
 
-<strong>Java · Spring Boot · PostgreSQL · JPA/Hibernate · JUnit</strong>
+<strong>Java · Spring Boot · React · PostgreSQL · JPA/Hibernate · JUnit</strong>
 
 <p><em>Because job hunting is chaotic enough without a messy spreadsheet.</em><br>
-A backend REST API that tracks applications, companies, interviews and status updates in one place.</p>
+A full-stack job application manager for tracking accounts, applications, companies, interviews, and dashboard data.</p>
 
-<img src="https://img.shields.io/badge/18%20REST%20Endpoints-111827?style=for-the-badge" alt="18 REST endpoints" />
-<img src="https://img.shields.io/badge/6%20Tables-111827?style=for-the-badge" alt="6 tables" />
-<img src="https://img.shields.io/badge/40%2B%20Tests-111827?style=for-the-badge" alt="40+ tests" />
+<img src="https://img.shields.io/badge/21%20API%20Operations-111827?style=for-the-badge" alt="21 API operations" />
+<img src="https://img.shields.io/badge/56%20Passing%20Tests-111827?style=for-the-badge" alt="56 passing tests" />
+<img src="https://img.shields.io/badge/80.05%25%20Coverage-111827?style=for-the-badge" alt="80.05% line coverage" />
 
 <br><br>
 
-<a href="https://github.com/SHarsh671/job-application-management-platform">
-<img src="https://img.shields.io/badge/VIEW-project-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=374151" alt="View Job Application Manager on GitHub" />
+<a href="https://github.com/SHarsh671/careerpulse">
+<img src="https://img.shields.io/badge/SOURCE-code-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=374151" alt="CareerPulse source code" />
+</a>
+<a href="https://careerpulse-web-zrkl.onrender.com/dashboard">
+<img src="https://img.shields.io/badge/VIEW-live%20demo-111827?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=374151" alt="CareerPulse live demo" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>Stock Portfolio Tracker</h3>
+<h3>Gabnex</h3>
 
-<strong>Java · Spring Boot · PostgreSQL · JUnit</strong>
+<strong>Java · Spring Boot · React · PostgreSQL · JUnit · Maven</strong>
 
-<p><em>Know what you own and how it's doing, minus the guesswork.</em><br>
-A backend service that handles portfolios, transactions, holdings and investment performance.</p>
+<p><em>Your portfolio, your transactions, your numbers.</em><br>
+A full-stack investment tracker for managing portfolios, holdings, transactions, watchlists, and asset searches with portfolio accounting.</p>
 
 <img src="https://img.shields.io/badge/14%20REST%20Endpoints-111827?style=for-the-badge" alt="14 REST endpoints" />
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Scheduled%20Jobs-111827?style=for-the-badge" alt="Scheduled processing" />
+<img src="https://img.shields.io/badge/33%20Backend%20Tests-111827?style=for-the-badge" alt="33 backend tests" />
+<img src="https://img.shields.io/badge/JWT%20Authentication-111827?style=for-the-badge" alt="JWT authentication" />
 
 <br><br>
 
-<a href="https://github.com/SHarsh671/stock-portfolio-tracker">
-<img src="https://img.shields.io/badge/VIEW-project-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=374151" alt="View Stock Portfolio Tracker on GitHub" />
+<a href="https://github.com/SHarsh671/Gabnex">
+<img src="https://img.shields.io/badge/SOURCE-code-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=374151" alt="Gabnex source code" />
 </a>
+<img src="https://img.shields.io/badge/LIVE%20DEMO-coming%20soon-111827?style=for-the-badge" alt="Live demo coming soon" />
 
 </td>
 </tr>
@@ -104,20 +108,20 @@ A backend service that handles portfolios, transactions, holdings and investment
 
 <strong>TypeScript · React · Next.js · Tailwind CSS · Cloudflare Workers</strong>
 
-<p><em>Chess, but the board has rings. Yes, it's as fun as it sounds.</em><br>
-A live multiplayer platform built with a 7-person Agile team, featuring two original game variants.</p>
+<p><em>Chess, but the board has rings.</em><br>
+A live multiplayer chess platform featuring Concentric Chess and Archimedean Chess, developed collaboratively in a 7-person Agile team.</p>
 
-<img src="https://img.shields.io/badge/7%20Person%20Team-111827?style=for-the-badge" alt="7-person Agile team" />
-<img src="https://img.shields.io/badge/2%20Game%20Variants-111827?style=for-the-badge" alt="2 game variants" />
-<img src="https://img.shields.io/badge/Live-111827?style=for-the-badge" alt="Live deployment" />
+<img src="https://img.shields.io/badge/7%20Person%20Team-111827?style=for-the-badge" alt="7-person team" />
+<img src="https://img.shields.io/badge/2%20Game%20Variants-111827?style=for-the-badge" alt="2 original chess variants" />
+<img src="https://img.shields.io/badge/20%2B%20Game%20Assets-111827?style=for-the-badge" alt="20+ game assets" />
 
 <br><br>
 
-<a href="https://capstone.mrvillage.dev/">
-<img src="https://img.shields.io/badge/PLAY-live%20site-111827?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=374151" alt="Visit Concentric Chess live site" />
+<a href="https://github.com/SHarsh671/Concentric-Chess">
+<img src="https://img.shields.io/badge/SOURCE-code-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=374151" alt="Concentric Chess source code" />
 </a>
-<a href="https://github.com/mrvillage/capstone">
-<img src="https://img.shields.io/badge/SOURCE-code-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=374151" alt="View Concentric Chess source on GitHub" />
+<a href="https://capstone.mrvillage.dev/">
+<img src="https://img.shields.io/badge/PLAY-live%20site-111827?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=374151" alt="Play Concentric Chess" />
 </a>
 
 </td>
@@ -128,21 +132,24 @@ A live multiplayer platform built with a 7-person Agile team, featuring two orig
 <strong>React · JavaScript · GitHub Pages</strong>
 
 <p><em>My corner of the internet.</em><br>
-A responsive site showing off my projects, skills and the things I've been building.</p>
+A responsive portfolio showcasing my software projects, technical skills, and development experience.</p>
 
 <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white" alt="React" />
 <img src="https://img.shields.io/badge/Responsive-111827?style=for-the-badge" alt="Responsive UI" />
-<img src="https://img.shields.io/badge/Deployed-111827?style=for-the-badge" alt="Deployed" />
+<img src="https://img.shields.io/badge/Deployed-111827?style=for-the-badge" alt="Deployed portfolio" />
 
 <br><br>
 
 <a href="https://sharsh671.github.io">
-<img src="https://img.shields.io/badge/VISIT-site-111827?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=374151" alt="Visit portfolio site" />
+<img src="https://img.shields.io/badge/VISIT-portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=374151" alt="Visit developer portfolio" />
 </a>
 
 </td>
 </tr>
 </table>
+
+---
+
 
 ---
 
