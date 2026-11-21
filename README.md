@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=HARSHMEET%20SINGH&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=&animation=twinkling&color=0:000000,50:1f2937,100:4b5563" width="100%" alt="Harshmeet Singh" />
 
 <h3>Software Developer &nbsp;|&nbsp; Backend Engineering &nbsp;|&nbsp; McMaster CS Grad</h3>
-
+ 
 
 <a href="https://sharsh671.github.io">
 <img src="https://img.shields.io/badge/PORTFOLIO-open-111827?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=374151" alt="Portfolio" />
